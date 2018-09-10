@@ -1,5 +1,5 @@
 {
-  "title": "Dialog Cards",
+  "title": "Image Dialog Cards",
   "description": "Makes it possible to create learning tasks for your site visitors.",
   "majorVersion": 1,
   "minorVersion": 7,
@@ -7,7 +7,7 @@
   "runnable": 1,
   "author": "Joubel",
   "license": "MIT",
-  "machineName": "H5P.Dialogcards",
+  "machineName": "H5P.ImageDialogcards",
   "coreApi": {
     "majorVersion": 1,
     "minorVersion": 15
@@ -17,12 +17,12 @@
   ],
   "preloadedCss": [
     {
-      "path": "css/dialogcards.css"
+      "path": "css/imagedialogcards.css"
     }
   ],
   "preloadedJs": [
     {
-      "path": "js/dialogcards.js"
+      "path": "js/imagedialogcards.js"
     }
   ],
   "preloadedDependencies": [
